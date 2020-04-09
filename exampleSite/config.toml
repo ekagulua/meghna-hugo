@@ -19,7 +19,7 @@ languageName = "Fr"
 weight = 2
 [[menu.main]]
 URL = "about"
-name = "About Us"
+name = "Про нас"
 weight = 1
 [[menu.main]]
 URL = "services"
@@ -92,13 +92,7 @@ preloader = "images/logo.png"
 icon = "ti-facebook"
 link = "#"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
 icon = "ti-youtube"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
 link = "#"
 [[params.social]]
 icon = "ti-dribbble"
