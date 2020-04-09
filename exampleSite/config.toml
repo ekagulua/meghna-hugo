@@ -27,11 +27,11 @@ name = "Послуги"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
-name = "Portfolio"
+name = ""
 weight = 3
 [[menu.main]]
 URL = "team"
-name = "Team"
+name = "Наші майстри"
 weight = 4
 [[menu.main]]
 URL = "pricing"
