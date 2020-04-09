@@ -26,17 +26,17 @@ URL = "services"
 name = "Послуги"
 weight = 2
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 6
+URL = "team"
+name = "Наші майстри"
+weight = 4
 [[menu.main]]
 URL = "portfolio"
 name = "Наші роботи"
 weight = 3
 [[menu.main]]
-URL = "team"
-name = "Наші майстри"
-weight = 4
+URL = "blog"
+name = "Blog"
+weight = 6
 [[menu.main]]
 URL = "pricing"
 name = "Pricing"
