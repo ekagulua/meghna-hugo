@@ -23,7 +23,7 @@ name = "Про нас"
 weight = 1
 [[menu.main]]
 URL = "services"
-name = "Service"
+name = "послуги"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
