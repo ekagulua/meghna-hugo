@@ -26,8 +26,12 @@ URL = "services"
 name = "Послуги"
 weight = 2
 [[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 6
+[[menu.main]]
 URL = "portfolio"
-name = ""
+name = "Наші роботи"
 weight = 3
 [[menu.main]]
 URL = "team"
@@ -37,10 +41,6 @@ weight = 4
 URL = "pricing"
 name = "Pricing"
 weight = 5
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 6
 [[menu.main]]
 URL = "contact"
 name = "Contact"
